@@ -1,4 +1,4 @@
-## UI/UX DESIGNING.
+## UI/UX DESIGNING
 ### What is UI Design?
 User interface (UI) design is the process designers use to build interfaces in software or computerized devices, focusing on looks or style. Designers aim to create interfaces which users find easy to use and pleasurable. UI design refers to graphical user interfaces and other forms—e.g., voice-controlled interfaces.
 
@@ -24,7 +24,6 @@ User interface (UI) design is the process designers use to build interfaces in s
 * Zeplin
 
 ![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
 
 
 ### What is UX Design?
@@ -47,3 +46,4 @@ User experience (UX) design is the process design teams use to create products t
 
 
 _**WebWit Club**_
+:relaxed:
