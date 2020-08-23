@@ -5,9 +5,9 @@ User interface (UI) design is the process designers use to build interfaces in s
 
 #### Why UI is more important?
 
--Visual Design
--Interactive Design
--Information Architecture
+* Visual Design
+* Interactive Design
+* Information Architecture
 
 
 ### What is UX Design?
@@ -29,4 +29,4 @@ User experience (UX) design is the process design teams use to create products t
 
 
 
-*WebWit Club*
+_**WebWit Club**_
