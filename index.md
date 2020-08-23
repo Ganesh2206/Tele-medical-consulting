@@ -23,7 +23,7 @@ User interface (UI) design is the process designers use to build interfaces in s
 * inVision
 * Zeplin
 
-![UI Logo](uilogo.png)
+![uilogo](https://user-images.githubusercontent.com/58847272/90982838-b21fde00-e587-11ea-9517-9c98a57c2a13.png)
 
 
 ### What is UX Design?
@@ -46,5 +46,4 @@ User experience (UX) design is the process design teams use to create products t
 
 
 _**WebWit Club**_
-
 :globe_with_meridians:
