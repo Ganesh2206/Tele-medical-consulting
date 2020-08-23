@@ -45,5 +45,5 @@ User experience (UX) design is the process design teams use to create products t
 
 
 
-_**WebWit Club**_  :relaxed:
+_**WebWit Club**_  :octocat:
 
