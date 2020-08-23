@@ -23,7 +23,7 @@ User interface (UI) design is the process designers use to build interfaces in s
 * inVision
 * Zeplin
 
-![GitHub Logo](/images/logo.png)
+![UI Logo](uilogo.png)
 
 
 ### What is UX Design?
